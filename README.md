@@ -14,7 +14,7 @@ This repository contains the implementation and analysis of optimization algorit
 
 ---
 
-## 🧪 Experiments
+## Experiments
 
 ### 1. SVRG vs SGD on Convex Problems
 - **Problems:** L2-regularized least squares and logistic regression
@@ -40,7 +40,7 @@ This repository contains the implementation and analysis of optimization algorit
 
 ---
 
-## 🧰 Requirements
+## Requirements
 
 To run the Python notebooks:
 
