@@ -4,7 +4,7 @@ This repository contains the implementation and analysis of optimization algorit
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 - `notebooks/`: Jupyter notebooks for each experiment
 - `reports/`: Final PDF reports summarizing results
